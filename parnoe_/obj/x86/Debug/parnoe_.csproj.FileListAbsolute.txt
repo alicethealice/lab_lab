@@ -1,0 +1,10 @@
+C:\Documents and Settings\Пользователь\Local Settings\Application Data\Temporary Projects\parnoe_\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Пользователь\Local Settings\Application Data\Temporary Projects\parnoe_\bin\Debug\parnoe_.exe
+C:\Documents and Settings\Пользователь\Local Settings\Application Data\Temporary Projects\parnoe_\bin\Debug\parnoe_.pdb
+C:\Documents and Settings\Пользователь\Local Settings\Application Data\Temporary Projects\parnoe_\obj\x86\Debug\parnoe_.exe
+C:\Documents and Settings\Пользователь\Local Settings\Application Data\Temporary Projects\parnoe_\obj\x86\Debug\parnoe_.pdb
+C:\Documents and Settings\Пользователь\Мои документы\Visual Studio 2010\Projects\parnoe_\parnoe_\obj\x86\Debug\parnoe_.exe
+C:\Documents and Settings\Пользователь\Мои документы\Visual Studio 2010\Projects\parnoe_\parnoe_\obj\x86\Debug\parnoe_.pdb
+C:\Documents and Settings\Пользователь\Мои документы\Visual Studio 2010\Projects\parnoe_\parnoe_\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Пользователь\Мои документы\Visual Studio 2010\Projects\parnoe_\parnoe_\bin\Debug\parnoe_.exe
+C:\Documents and Settings\Пользователь\Мои документы\Visual Studio 2010\Projects\parnoe_\parnoe_\bin\Debug\parnoe_.pdb
